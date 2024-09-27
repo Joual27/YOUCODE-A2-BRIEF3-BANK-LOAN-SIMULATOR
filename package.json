@@ -1,0 +1,13 @@
+{
+  "name": "loansimulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass --watch src/main/webapp/ressources/styles/sass/home.scss:src/main/webapp/ressources/styles/css/home.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
